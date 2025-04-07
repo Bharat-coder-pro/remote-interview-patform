@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://climbing-cattle-3.clerk.accounts.dev/",
+      domain: "https://alive-panda-86.clerk.accounts.dev/",
       applicationID: "convex",
     },
   ],
