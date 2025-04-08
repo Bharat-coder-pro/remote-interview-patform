@@ -13,9 +13,8 @@ function Navbar() {
           href="/"
           className="flex items-center gap-2 font-semibold text-2xl mr-6 font-mono hover:opacity-80 transition-opacity"
         >
-          <CodeIcon className="size-8 text-emerald-500" />
           <span className="bg-gradient-to-r from-emerald-600 font-bold to-teal-500 bg-clip-text text-transparent">
-            HirePro
+            {`<HirePro />`}
           </span>
         </Link>
 
